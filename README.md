@@ -1,8 +1,8 @@
 # keyword-extraction
-Extract keyword using Textrank
+Extract keyword using Textrank and python3
 
-# Installation
-create venv
+# How to run
+create and activate new virtual environment
 
 ```
 pip install -r requirements.txt
